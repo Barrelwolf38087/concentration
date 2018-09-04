@@ -1,2 +1,5 @@
-Note: Only use the makefile on *NIX.
-On Michalsoft Binbows, use the Code::Blocks project.
+Windows dependencies: None
+UNIX dependencies: ncurses
+
+Note: Only use the makefile on UNIX.
+On Michaelsoft Binbows, use the Code::Blocks project.
