@@ -1,8 +1,7 @@
 # depslib dependency file v1.0
-1536011754 source:c:\users\will\documents\concentration\main.c
+1536093849 source:c:\users\will\documents\concentration\main.c
 	<stdio.h>
 	<stdlib.h>
-	<stdbool.h>
 	<time.h>
 	"concentration.h"
 
@@ -13,11 +12,9 @@
 
 1536010916 c:\users\will\documents\concentration\\concentration.h
 
-1536011701 source:c:\users\will\documents\concentration\windows.c
+1536112358 source:c:\users\will\documents\concentration\windows.c
 	<stdio.h>
-	<stdlib.h>
 	<Windows.h>
-	<concentration.h>
 
-1536010916 c:\users\will\documents\concentration\concentration.h
+1536093849 c:\users\will\documents\concentration\concentration.h
 

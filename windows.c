@@ -38,7 +38,7 @@ unsigned int doWindows(unsigned int uiDIFFICULTY, int iaNums[])
 
         if ( iaResp[i] != iaNums[i] )
         {
-            printf("Incorrect! the correct answer was %d.\n", iaNums[i]);
+            printf("Incorrect! The correct answer was %d.\n", iaNums[i]);
             uiScore--;
         }
     }
